@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+	<title>{{.Title}}</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />	
+	<meta name="description" content="{{ .Description }}" />
+	
+	<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/vendor.bundle.css">
+	<link id="style-css" rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/style62ea.css?ver=1.2">
+	
+	{{ partial "analytics" . }}
+</head>
+
+<body class="site-body style-v1">
+	<!-- Header -->
+	<header class="site-header header-s1 is-sticky">
+		{{ partial "top-navigation" . }}
+		<!-- Navbar -->
+		<div class="navbar navbar-primary">
+			<div class="container">
+				{{ partial "logo" . }}
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mainnav" aria-expanded="false">
+						<span class="sr-only">Menu</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					
+				</div>
+				{{ partial "main-navigation" . }}
+			</div>
+		</div>
+		<!-- #end Navbar -->
+		<!-- Banner/Slider -->
+		<div class="banner banner-static banner-intro">
+			<div class="container">
+				<div class="content row">
+
+					<div class="banner-text wide-md al-center pos-center">
+						<h2 class="ucap">PipaPVC.CO.ID</h2>
+						<p>Jual Pipa HDPE Rucika, Intilon, Signature, Champion, Dll.</p>
+						<p>Melayani pembelian ke seluruh daerah di Indonesia.</p>
+						<div class="banner-cta">
+							<a class="btn btn-light btn-outline" href="{{ .Site.BaseURL }}/harga">Lihat Harga Pipa HDPE</a>
+							<a class="btn btn-alt" href="{{ .Site.BaseURL }}/harga/fitting-hdpe">Lihat Harga Fitting HDPE</a>
+						</div>
+					</div>
+					<div class="imagebg">
+						<img src="{{ .Site.BaseURL }}/image/pipa-hdpe-background.jpg" alt="Distributor pipa HDPE">
+					</div>
+
+				</div>
+			</div>
+		</div>
+
+		<!-- #end Banner/Slider -->
+	</header>
+	<!-- End Header -->
