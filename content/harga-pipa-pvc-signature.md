@@ -5,3 +5,8 @@ draft: false
 layout: "single-harga"
 ---
 
+### Update Harga Terbaru 2019
+
+#### Harga Pipa PVC Signature AW/D
+
+{{< partial "harga-pipa/signature-aw-d" >}}
