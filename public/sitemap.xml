@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.pipapvc.co.id/kebijakan-privasi/</loc>
+    <lastmod>2018-11-04T15:27:21+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pipapvc.co.id/404/</loc>
+    <lastmod>2018-10-03T15:36:13+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pipapvc.co.id/</loc>
+    <lastmod>2018-08-01T12:37:47+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pipapvc.co.id/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pipapvc.co.id/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
