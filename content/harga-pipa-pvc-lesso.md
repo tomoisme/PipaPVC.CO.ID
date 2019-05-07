@@ -5,3 +5,22 @@ draft: false
 layout: "single-harga"
 ---
 
+### Update Harga Terbaru 2019
+
+#### Harga Pipa PVC Lesso AW
+
+{{< partial "harga-pipa/lesso-aw" >}}
+
+#### Ketebalan Dan Berat Pipa PVC Lesso AW
+
+{{< partial "data-pipa/tebal-berat-lesso-aw" >}}
+
+----
+
+#### Harga Pipa PVC Lesso D
+
+{{< partial "harga-pipa/lesso-d" >}}
+
+#### Ketebalan Dan Berat Pipa PVC Lesso D
+
+{{< partial "data-pipa/tebal-berat-lesso-d" >}}
