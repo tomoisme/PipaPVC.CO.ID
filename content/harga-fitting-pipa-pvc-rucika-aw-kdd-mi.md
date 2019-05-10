@@ -5,6 +5,6 @@ draft: false
 layout: "single-harga"
 --- 
 
-### KDD Kuningan (metal insert)
+#### KDD Kuningan (metal insert)
 
 {{< partial "harga-fitting/rucika-aw-kdd-mi" >}}
