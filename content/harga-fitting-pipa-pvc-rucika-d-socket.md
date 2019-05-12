@@ -1,5 +1,5 @@
 ---
-title: "Harga Fitting Pipa Pvc Rucika D - Socket"
+title: "Harga Fitting Pipa PVC Rucika D - Socket"
 date: 2019-05-12T08:00:03+07:00
 draft: false
 layout: "single-harga"

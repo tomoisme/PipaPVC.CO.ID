@@ -1,5 +1,5 @@
 ---
-title: "Harga Fitting Pipa Pvc Rucika D - Long Elbow"
+title: "Harga Fitting Pipa PVC Rucika D - Long Elbow"
 date: 2019-05-12T08:01:39+07:00
 draft: false
 layout: "single-harga"
