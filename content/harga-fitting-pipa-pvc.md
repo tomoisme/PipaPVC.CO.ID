@@ -5,3 +5,4 @@ draft: false
 layout: "single-harga"
 ---
 
+{{< partial "menu/fitting-pvc" >}}
