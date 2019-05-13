@@ -6,24 +6,28 @@
       "**/.*",
       "**/node_modules/**"
     ], 
-    "headers": [ {
+    "headers": [ 
+      {
       "source" : "**/*.@(eot|otf|ttf|ttc|woff|font.css)",
       "headers" : [ {
         "key" : "Access-Control-Allow-Origin",
         "value" : "*"
-      } ]
-      }, {
+        } ]
+      }, 
+      {
       "source" : "**/*.@(jpg|jpeg|gif|png)",
       "headers" : [ {
         "key" : "Cache-Control",
-        "value" : "max-age=7200"
-      } ]
-      }, {
+        "value" : "max-age=2592000"
+        } ]
+      }, 
+      {
       "source" : "404.html",
       "headers" : [ {
         "key" : "Cache-Control",
         "value" : "max-age=300"
-      } ]
-    } ]
+        } ]
+      } 
+    ]
   }
 }
