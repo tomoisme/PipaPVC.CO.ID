@@ -7,4 +7,6 @@ layout: "single-harga"
 
 ### Dop
 
+<img src="../img/fitting-pvc/cap-aw.png" alt="cap PVC AW" width="200">
+
 {{< partial "harga-fitting/cm-aw-cap" >}}

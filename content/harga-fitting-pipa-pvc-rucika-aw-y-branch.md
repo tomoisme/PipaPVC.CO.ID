@@ -7,4 +7,6 @@ layout: "single-harga"
 
 #### Tee 45&deg;
 
+<img src="../img/fitting-pvc/y-branch.png" alt="y branch PVC" width="200" />
+
 {{< partial "harga-fitting/rucika-aw-ybranch" >}}

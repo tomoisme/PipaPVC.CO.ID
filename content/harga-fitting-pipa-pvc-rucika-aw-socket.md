@@ -7,4 +7,6 @@ layout: "single-harga"
 
 #### Coupler
 
+<img src="../img/fitting-pvc/socket.png" alt="sock PVC" width="200" />
+
 {{< partial "harga-fitting/rucika-aw-socket" >}}

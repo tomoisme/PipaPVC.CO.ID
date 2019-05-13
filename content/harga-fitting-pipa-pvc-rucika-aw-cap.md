@@ -7,4 +7,6 @@ layout: "single-harga"
 
 #### Dop
 
+<img src="../img/fitting-pvc/cap.png" alt="cap/dop PVC" width="200">
+
 {{< partial "harga-fitting/rucika-aw-cap" >}}

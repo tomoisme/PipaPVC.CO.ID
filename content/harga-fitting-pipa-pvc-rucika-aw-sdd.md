@@ -7,4 +7,6 @@ layout: "single-harga"
 
 #### SDD
 
+<img src="../img/fitting-pvc/socket-drat-dalam.png" alt="socket drat dalam PVC" width="200" />
+
 {{< partial "harga-fitting/rucika-aw-sdd" >}}

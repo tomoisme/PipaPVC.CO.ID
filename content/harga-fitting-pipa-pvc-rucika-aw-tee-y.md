@@ -7,4 +7,6 @@ layout: "single-harga"
 
 #### Large Radius Tee
 
+<img src="../img/fitting-pvc/large-radius-tee.png" alt="tee y PVC" width="200" />
+
 {{< partial "harga-fitting/rucika-aw-teey" >}}

@@ -7,4 +7,6 @@ layout: "single-harga"
 
 #### Vlok Sock
 
+<img src="../img/fitting-pvc/reducer.png" alt="reducer/vlok sock PVC" width="200" />
+
 {{< partial "harga-fitting/rucika-aw-reducer" >}}

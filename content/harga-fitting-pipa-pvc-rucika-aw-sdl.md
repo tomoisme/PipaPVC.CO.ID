@@ -7,4 +7,6 @@ layout: "single-harga"
 
 #### SDL
 
+<img src="../img/fitting-pvc/socket-drat-luar.png" alt="socket drat luar PVC" width="200" />
+
 {{< partial "harga-fitting/rucika-aw-sdl" >}}

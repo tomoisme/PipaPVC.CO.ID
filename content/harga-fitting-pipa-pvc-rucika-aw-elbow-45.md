@@ -7,4 +7,6 @@ layout: "single-harga"
 
 #### Knee 45°
 
+<img src="../img/fitting-pvc/elbow-45-aw.png" alt="Elbow 45° PVC" width="200" />
+
 {{< partial "harga-fitting/rucika-aw-elbow-45" >}}

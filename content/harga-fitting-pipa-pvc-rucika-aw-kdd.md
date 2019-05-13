@@ -7,4 +7,6 @@ layout: "single-harga"
 
 #### KDD / Faucet Elbow / Elbow Drat Dalam
 
+<img src="../img/fitting-pvc/knee-drat-dalam.png" alt="Knee Drat Dalam PVC" width="200" />
+
 {{< partial "harga-fitting/rucika-aw-kdd" >}}

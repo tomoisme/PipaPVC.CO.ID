@@ -5,4 +5,6 @@ draft: false
 layout: "single-harga"
 ---
 
+<img src="../img/fitting-pvc/tee.png" alt="tee PVC" width="200" />
+
 {{< partial "harga-fitting/rucika-aw-tee" >}}

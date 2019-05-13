@@ -7,4 +7,6 @@ layout: "single-harga"
 
 #### TDD Kuningan
 
+<img src="../img/fitting-pvc/tee-drat-dalam-kuningan.png" alt="tee drat dalam PVC (kuningan)" width="200" />
+
 {{< partial "harga-fitting/rucika-aw-tdd-mi" >}}

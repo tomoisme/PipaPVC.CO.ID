@@ -7,4 +7,6 @@ layout: "single-harga"
 
 #### Watermur/Union Socket
 
+<img src="../img/fitting-pvc/watermur-socket.png" alt="watermur socket PVC" width="200" />
+
 {{< partial "harga-fitting/rucika-aw-watermur-socket" >}}

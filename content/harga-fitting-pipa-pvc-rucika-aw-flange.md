@@ -7,4 +7,6 @@ layout: "single-harga"
 
 #### Stub End
 
+<img src="../img/fitting-pvc/flange.png" alt="Flange PVC" width="200" />
+
 {{< partial "harga-fitting/rucika-aw-flange" >}}

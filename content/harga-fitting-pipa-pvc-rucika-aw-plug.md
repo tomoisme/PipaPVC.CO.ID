@@ -7,4 +7,6 @@ layout: "single-harga"
 
 #### Dop Drat Luar
 
+<img src="../img/fitting-pvc/plug.png" alt="plug/stop kran PVC" width="200" />
+
 {{< partial "harga-fitting/rucika-aw-plug" >}}
