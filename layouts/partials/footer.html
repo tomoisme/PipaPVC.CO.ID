@@ -55,11 +55,15 @@
 <!-- <div id="preloader"><div id="status">&nbsp;</div></div> -->
 <!-- Preloader End -->
 
-<!-- JavaScript Bundle -->
-<script src="{{ .Site.BaseURL }}//js/jquery.bundle.js"></script>
-<!-- Theme Script init() -->
-<script src="{{ .Site.BaseURL }}//js/script.js"></script>
-<!-- End script -->
+{{ $vendorjs := resources.Get "js/jquery.bundle.js" }}
+{{ $scriptjs := resources.Get "js/script.js" }}
+{{ $scripts := slice $vendorjs $scriptjs | resources.Concat "js/global.js" | minify | fingerprint }}
+
+<!-- Global JS -->
+<script src="{{ $scripts.Permalink }}" integrity="{{ $scripts.Data.Integrity }}"></script>
+<!-- End Global JS -->
+
+{{ partial "analytics" . }}
 </body>
 
 </html>
