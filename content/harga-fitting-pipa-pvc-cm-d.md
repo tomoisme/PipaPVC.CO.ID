@@ -7,4 +7,6 @@ layout: "single-harga"
 
 ### Update Harga Terbaru 2019
 
+{{< partial "wa-button" >}}
+
 {{< partial "harga-fitting/cm-d" >}}

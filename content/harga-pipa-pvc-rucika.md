@@ -8,6 +8,8 @@ layout: "single-harga"
 
 #### Harga Pipa PVC Rucika Standard (Wavin) AW/D
 
+{{< partial "wa-button" >}}
+
 {{< partial "harga-pipa/rucika-aw-d" >}}
 
 #### Harga Pipa PVC Rucika JIS

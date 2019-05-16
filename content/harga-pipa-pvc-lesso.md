@@ -9,6 +9,8 @@ layout: "single-harga"
 
 #### Harga Pipa PVC Lesso AW
 
+{{< partial "wa-button" >}}
+
 {{< partial "harga-pipa/lesso-aw" >}}
 
 #### Ketebalan Dan Berat Pipa PVC Lesso AW
@@ -18,6 +20,8 @@ layout: "single-harga"
 ----
 
 #### Harga Pipa PVC Lesso D
+
+{{< partial "wa-button" >}}
 
 {{< partial "harga-pipa/lesso-d" >}}
 

@@ -9,4 +9,6 @@ layout: "single-harga"
 
 #### Harga Pipa PVC Champion AW/D
 
+{{< partial "wa-button" >}}
+
 {{< partial "harga-pipa/champion-aw-d" >}}

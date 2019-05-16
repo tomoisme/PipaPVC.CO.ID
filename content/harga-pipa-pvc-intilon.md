@@ -9,9 +9,13 @@ layout: "single-harga"
 
 #### Harga Pipa PVC Intilon AW/D
 
+{{< partial "wa-button" >}}
+
 {{< partial "harga-pipa/intilon-aw-d" >}}
 
 #### Harga Pipa PVC Intilon JIS
+
+{{< partial "wa-button" >}}
 
 {{< partial "harga-pipa/intilon-jis" >}}
 
