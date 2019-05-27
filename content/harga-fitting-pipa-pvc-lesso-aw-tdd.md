@@ -8,6 +8,6 @@ description: "Daftar harga fitting pipa PVC Lesso tipe AW, fitting PVC murah ber
 
 ### Update Harga Terbaru 2019
 
-<img src="../img/fitting-pvc/faucet-elbow-aw-lesso.png" alt="faucet elbow AW PVC" width="180">
+<img src="../img/fitting-pvc/faucet-tee-aw-lesso.png" alt="faucet tee AW PVC" width="200">
 
-{{< partial "harga-fitting/lesso-aw-kdd" >}}
+{{< partial "harga-fitting/lesso-aw-tdd" >}}
