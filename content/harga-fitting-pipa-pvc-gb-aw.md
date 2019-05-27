@@ -5,8 +5,6 @@ draft: false
 layout: "single-harga"
 description: "Daftar harga fitting pipa PVC Grand Bahari tipe AW, fitting PVC murah berkualitas."
 ---
-
-## Harga Fitting Pipa PVC Grand Bahari (GB) AW
 ### Update Harga Terbaru 2019
 
 {{< partial "wa-button" >}}
