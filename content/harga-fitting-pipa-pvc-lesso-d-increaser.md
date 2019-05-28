@@ -8,6 +8,6 @@ description: "Daftar harga fitting pipa PVC Lesso tipe D, fitting PVC murah berk
 
 ### Update Harga Terbaru 2019
 
-<img src="../img/fitting-pvc/elbow-d-dl-lesso.png" alt="Increaser D-IN PVC" width="200">
+<img src="../img/fitting-pvc/increaser-lesso-d-in.png" alt="Increaser D-IN PVC" width="200">
 
 {{< partial "harga-fitting/lesso-d-increaser" >}}

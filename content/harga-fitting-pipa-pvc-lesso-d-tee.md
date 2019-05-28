@@ -8,6 +8,6 @@ description: "Daftar harga fitting pipa PVC Lesso tipe D, fitting PVC murah berk
 
 ### Update Harga Terbaru 2019
 
-<img src="../img/fitting-pvc/clean-out-d-lesso.png" alt="Clean Out D PVC" width="200">
+<img src="../img/fitting-pvc/tee-lesso-d-dt.png" alt="Tee D-DT PVC" width="200">
 
-{{< partial "harga-fitting/lesso-d-co" >}}
+{{< partial "harga-fitting/lesso-d-tee" >}}
