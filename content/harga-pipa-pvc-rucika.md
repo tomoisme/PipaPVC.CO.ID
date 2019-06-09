@@ -14,4 +14,6 @@ layout: "single-harga"
 
 #### Harga Pipa PVC Rucika JIS
 
+{{< partial "wa-button" >}}
+
 {{< partial "harga-pipa/rucika-jis" >}}

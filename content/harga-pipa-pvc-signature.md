@@ -9,4 +9,6 @@ layout: "single-harga"
 
 #### Harga Pipa PVC Signature AW/D
 
+{{< partial "wa-button" >}}
+
 {{< partial "harga-pipa/signature-aw-d" >}}
