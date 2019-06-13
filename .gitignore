@@ -66,3 +66,5 @@ node_modules/
 
 # dotenv environment variables file
 .env
+resources/_gen/assets/css/css/global.css_d11fe7b62c27961c87ecd0f2490357b9.content
+resources/_gen/assets/js/js/global.js_d11fe7b62c27961c87ecd0f2490357b9.content
