@@ -8,6 +8,8 @@ layout: "single-harga"
 
 #### Harga Pipa PVC Rucika Standard (Wavin) AW/D
 
+Klik disini untuk lihat [**tabel ketebalan pipa PVC Rucika Standard**](../spesifikasi-dan-ketebalan-pipa-pvc-rucika-standard)
+
 {{< partial "wa-button" >}}
 
 {{< partial "harga-pipa/rucika-aw-d" >}}
