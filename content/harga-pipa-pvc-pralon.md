@@ -6,7 +6,7 @@ layout: "single-harga"
 description: "Daftar harga pipa pvc Pralon berbagai standard seperti AW/D, JIS VP/VU, SNI, dan pipa PVC limbah tipe A dan B (orange)."
 ---
 
-### Update Harga Terbaru 2019
+### Update Harga Terbaru 2020
 
 #### Pipa PVC Pralon AW/D
 

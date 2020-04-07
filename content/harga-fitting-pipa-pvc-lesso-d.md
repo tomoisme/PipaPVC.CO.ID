@@ -5,7 +5,7 @@ draft: false
 layout: "single-harga"
 description: "Daftar harga fitting pipa PVC Lesso D, fitting PVC murah berkualitas."
 ---
-### Update Harga Terbaru 2019
+### Update Harga Terbaru 2020
 
 {{< partial "wa-button" >}}
 

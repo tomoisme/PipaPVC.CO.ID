@@ -4,7 +4,7 @@ date: 2019-05-06T15:30:07+07:00
 draft: false
 layout: "single-harga"
 ---
-### Update Harga Terbaru 2019
+### Update Harga Terbaru 2020
 
 #### Harga Pipa PVC Rucika Standard (Wavin) AW/D
 

@@ -5,7 +5,7 @@ draft: false
 layout: "single-harga"
 ---
 
-### Update Harga Terbaru 2019
+### Update Harga Terbaru 2020
 
 #### Harga Pipa PVC Champion AW/D
 

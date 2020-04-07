@@ -7,7 +7,7 @@ description: "Daftar harga fitting pipa PVC Grand Bahari tipe AW, fitting PVC mu
 ---
 
 ## Harga Fitting Pipa PVC Grand Bahari (GB) AW
-### Update Harga Terbaru 2019
+### Update Harga Terbaru 2020
 
 {{< partial "wa-button" >}}
 

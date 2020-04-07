@@ -6,7 +6,7 @@ layout: "single-harga"
 description: "Daftar harga fitting pipa PVC Lesso tipe AW, fitting PVC murah berkualitas."
 ---
 
-### Update Harga Terbaru 2019
+### Update Harga Terbaru 2020
 
 <img src="../img/fitting-pvc/union-threaded-aw-lesso.png" alt="Union Threaded AW PVC" width="200">
 

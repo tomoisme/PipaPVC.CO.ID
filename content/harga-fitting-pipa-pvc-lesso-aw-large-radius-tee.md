@@ -6,7 +6,7 @@ layout: "single-harga"
 description: "Daftar harga fitting pipa PVC Lesso tipe AW, fitting PVC murah berkualitas."
 ---
 
-### Update Harga Terbaru 2019
+### Update Harga Terbaru 2020
 
 <img src="../img/fitting-pvc/large-radius-tee-aw-lesso.png" alt="Large Radius Tee AW PVC" width="200">
 

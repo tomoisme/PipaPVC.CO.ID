@@ -6,7 +6,7 @@ layout: "single-harga"
 description: "Daftar harga fitting pipa PVC Lesso tipe AW, fitting PVC murah berkualitas."
 ---
 
-### Update Harga Terbaru 2019
+### Update Harga Terbaru 2020
 
 <img src="../img/fitting-pvc/elbow-45-aw-lesso.png" alt="Elbow 45 PVC" width="200">
 

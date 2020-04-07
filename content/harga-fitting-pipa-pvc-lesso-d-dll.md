@@ -6,7 +6,7 @@ layout: "single-harga"
 description: "Daftar harga fitting pipa PVC Lesso tipe D, fitting PVC murah berkualitas."
 ---
 
-### Update Harga Terbaru 2019
+### Update Harga Terbaru 2020
 
 <img src="../img/fitting-pvc/large-radius-elbow-d-ll-lesso.png" alt="Large Radius Elbow D-LL PVC" width="200">
 

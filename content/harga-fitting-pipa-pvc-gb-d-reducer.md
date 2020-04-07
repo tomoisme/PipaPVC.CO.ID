@@ -6,7 +6,7 @@ layout: "single-harga"
 description: "Daftar harga vlok sock atau reducer PVC merk Grand Bahari (GB) tipe D. Dapatkan harga fitting PVC murah disini."
 ---
 
-### Update Harga Terbaru 2019
+### Update Harga Terbaru 2020
 
 {{< partial "wa-button" >}}
 

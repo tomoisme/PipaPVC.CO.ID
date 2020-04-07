@@ -6,7 +6,7 @@ layout: "single-harga"
 description: "Daftar harga pipa PVC SNI (RRJ dan SCJ) dengan panjang 6 meter yang biasa digunakan untuk proyek pemerintah."
 ---
 
-### Update Harga Terbaru 2019
+### Update Harga Terbaru 2020
 
 #### Harga Pipa PVC SNI Pralon S-10 (PN 12,5)
 

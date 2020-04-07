@@ -6,7 +6,7 @@ layout: "single-harga"
 description: "Daftar harga pipa uPVC JIS (K 6741-2007) untuk jalur air bersih bertekanan dan untuk air buangan (kotor)."
 ---
 
-### Update Harga Terbaru 2019
+### Update Harga Terbaru 2020
 
 {{< partial "wa-button" >}}
 

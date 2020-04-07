@@ -6,7 +6,7 @@ layout: "single-harga"
 description: "Daftar harga pipa PVC Pralon untuk air limbah tipe A. Warna pipa air limbah ini orange dengan panjang 6 meter dan tipe sambungan RRJ/SCJ"
 ---
 
-### Update Harga Terbaru 2019
+### Update Harga Terbaru 2020
 
 #### Harga Pipa PVC Pralon Air Limbah Tipe A
 
