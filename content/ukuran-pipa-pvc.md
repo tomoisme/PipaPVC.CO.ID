@@ -8,6 +8,14 @@ description: "Daftar ukuran pipa PVC dengan berbagai standard. Pastikan pipa PVC
 
 ## Ukuran Pipa PVC
 
+### Ukuran Dan Ketebalan Pipa PVC Signature (Warna PUTIH)
+
+Panjang pipa 1 batang = 4 meter
+
+Toleransi ketebalan dinding pipa +- 10%
+
+{{< partial "data-pipa/ketebalan-signature" >}}
+
 ### Ukuran Dan Ketebalan Pipa PVC Rucika Standard AW/D (Warna PUTIH)
 
 Panjang pipa 1 batang = 4 meter
