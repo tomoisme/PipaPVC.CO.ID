@@ -6,6 +6,15 @@ description: "Bagi anda yang butuh harga pipa PVC terbaru bisa cek disini. Kami 
 layout: "single-harga"
 ---
 
+### Harga Pipa PVC CHAMPION
+
+Alternatif pipa PVC murah untuk kebutuhan jalur pipa air di rumah, perkebunan/pertanian dan perikanan. Bagus juga dipakai untuk jalur air buangan.
+
+{{< partial "wa-button" >}}
+
+{{< partial "harga-pipa/champion-aw-d" >}}
+
+
 ### Harga Pipa PVC SIGNATURE
 
 **Pipa PVC Murah Berkualitas**
@@ -14,13 +23,6 @@ layout: "single-harga"
 
 {{< partial "harga-pipa/signature-aw-d" >}}
 
-### Harga Pipa PVC CHAMPION
-
-Alternatif pipa PVC murah untuk kebutuhan jalur pipa air di rumah, perkebunan/pertanian dan perikanan. Bagus juga dipakai untuk jalur air buangan.
-
-{{< partial "wa-button" >}}
-
-{{< partial "harga-pipa/champion-aw-d" >}}
 
 ### Harga Pipa PVC INTILON AW/D
 
@@ -30,13 +32,6 @@ Butuh pipa PVC yang kuat namun dengan harga yang lebih murah dari pipa PVC ber-m
 
 {{< partial "harga-pipa/intilon-aw-d" >}}
 
-### Harga Pipa PVC PIPAMAS AW/D
-
-Pilihan tepat untuk kebutuhan perpipaan dengan budget minimalis.
-
-{{< partial "wa-button" >}}
-
-{{< partial "harga-pipa/pipamas-aw-d" >}}
 
 ### Harga Pipa PVC Rucika Standard AW/D
 
