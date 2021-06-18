@@ -1,12 +1,10 @@
 ---
-title: "Ukuran Pipa PVC Standard JIS, AW/D, SNI, ANSI, Sch. 80, Sch. 40"
+title: "Ukuran Pipa PVC Standard AW/D, JIS, SNI, ANSI, Sch. 80, Sch. 40"
 date: 2020-04-19T12:18:13+07:00
 draft: false
-layout: "single-center"
+layout: "ukuran-pipa-pvc"
 description: "Daftar ukuran pipa PVC dengan berbagai standard. Pastikan pipa PVC yang anda beli sesuai dengan kebutuhan proyek dengan ukuran yang tepat."
 ---
-
-## Ukuran Pipa PVC
 
 ### Ukuran Dan Ketebalan Pipa PVC Signature (Warna PUTIH)
 
